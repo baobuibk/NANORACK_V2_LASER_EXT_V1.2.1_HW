@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=I_LD_EXT Pin=TP1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=TP2-1
+Added Pin To Net: NetName=NetD8_2 Pin=TP1-1
+Added Pin To Net: NetName=I_LD_EXT Pin=TP2-1

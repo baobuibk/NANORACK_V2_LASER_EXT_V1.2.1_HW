@@ -1,0 +1,3 @@
+Added Component: Designator=TP7(TESTPOINT)
+Added Pin To Net: NetName=GND Pin=TP7-1
+Added Member To Class: ClassName=SWITCHING Member=Component TP7 Test-Point

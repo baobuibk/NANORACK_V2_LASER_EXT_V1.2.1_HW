@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+D:\WorkSpace\Altium\NANORACK\NANORACK_V2_LASER_EXT_HW\01_DESIGN\Project Outputs for NANORACK_LASER_EXT\Pick Place for LASER_EXT_V1.2.1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/05/25
+Time:       03:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"D8","1N4148W-TP","BottomLayer","SOD123","4.5500","40.1800","180","DIODE STANDARD 100V 150MA SOD123"
+"D7","1N4148W-TP","BottomLayer","SOD123","9.1300","35.7100","180","DIODE STANDARD 100V 150MA SOD123"
+"D6","1N4148W-TP","BottomLayer","SOD123","4.5500","29.1800","180","DIODE STANDARD 100V 150MA SOD123"
+"D5","1N4148W-TP","BottomLayer","SOD123","9.1300","24.7100","180","DIODE STANDARD 100V 150MA SOD123"
+"D4","1N4148W-TP","BottomLayer","SOD123","4.5500","18.1800","180","DIODE STANDARD 100V 150MA SOD123"
+"D3","1N4148W-TP","BottomLayer","SOD123","9.1300","13.7100","180","DIODE STANDARD 100V 150MA SOD123"
+"D2","1N4148W-TP","BottomLayer","SOD123","4.5500","7.1800","180","DIODE STANDARD 100V 150MA SOD123"
+"D1","1N4148W-TP","BottomLayer","SOD123","9.1300","2.7100","180","DIODE STANDARD 100V 150MA SOD123"
+"LD8","LaserDiode","TopLayer","LASER","10.0500","40.9500","90",""
+"LD7","LaserDiode","TopLayer","LASER","14.6300","36.4800","90",""
+"LD6","LaserDiode","TopLayer","LASER","10.0500","29.9500","90",""
+"LD5","LaserDiode","TopLayer","LASER","14.6300","25.4800","90",""
+"LD4","LaserDiode","TopLayer","LASER","10.0500","18.9500","90",""
+"LD3","LaserDiode","TopLayer","LASER","14.6300","14.4800","90",""
+"LD2","LaserDiode","TopLayer","LASER","10.0500","7.9500","90",""
+"LD1","LaserDiode","TopLayer","LASER","14.6300","3.4800","90",""
+"Hole2","Hole","TopLayer","Hole_space","30.9000","49.9000","0",""
+"Hole1","Hole","TopLayer","Hole_space","30.9000","4.9000","0",""
+"R2","4.7K 1%","BottomLayer","RES-SMD-0603","19.0023","16.7452","90","RES SMD 4.7K OHM 1% 1/10W 0603"
+"C2","0.22uF/25V","BottomLayer","CN-SMD-0603","29.5433","16.7462","270","CAP CER 0.22UF 25V X7R 0603"
+"C1","0.22uF/25V","BottomLayer","CN-SMD-0603","29.5433","11.5400","270","CAP CER 0.22UF 25V X7R 0603"
+"U1","ADG1414BRUZ","BottomLayer","TSSOP24","24.1331","14.1738","180","IC SW SPST-NOX8 11.5OHM 24TSSOP"
+"J1","0532610871","BottomLayer","0532610871","27.1294","35.2598","270","CONN HEADER SMD R/A 8POS 1.25MM"
+"R6","22R 1%","BottomLayer","RES-SMD-0603","24.3040","21.8186","180","Resistor"
+"TVS1","S2303","BottomLayer","SOT23-123","21.7208","29.8704","270","TVS DIODE 3.3VWM 8VC SOT233"
+"TVS2","S2303","BottomLayer","SOT23-123","21.7208","33.4621","270","TVS DIODE 3.3VWM 8VC SOT233"
+"TVS3","S2303","BottomLayer","SOT23-123","21.7208","37.0537","270","TVS DIODE 3.3VWM 8VC SOT233"
+"TVS4","S2312","BottomLayer","SOT23-123","21.7208","40.6454","270","TVS DIODE 12VWM 19VC SOT233"
+"TP7","Test-Point","BottomLayer","TESTPOINT","5.6388","44.3540","180",""
+"R5","22R 1%","BottomLayer","RES-SMD-0603","19.7523","19.7120","0","Resistor"
+"TP6","Test-Point","BottomLayer","TESTPOINT","23.8845","24.4179","0",""
+"TP5","Test-Point","BottomLayer","TESTPOINT","21.0312","24.4179","0",""
+"TP4","Test-Point","BottomLayer","TESTPOINT","26.7377","24.4179","0",""
+"TP3","Test-Point","BottomLayer","TESTPOINT","29.6672","24.4179","0",""
+"TP2","Test-Point","BottomLayer","TESTPOINT","2.9150","44.3540","180",""
+"R4","22R 1%","BottomLayer","RES-SMD-0603","24.3040","19.7110","180","Resistor"
+"R3","22R 1%","BottomLayer","RES-SMD-0603","28.8548","19.7110","180","Resistor"

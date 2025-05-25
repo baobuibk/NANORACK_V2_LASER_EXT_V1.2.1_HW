@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=EXT_LASER Member=J1
+Removed Member From Class: ClassName=EXT_LASER Member=TVS1
+Removed Member From Class: ClassName=EXT_LASER Member=TVS2
+Removed Member From Class: ClassName=EXT_LASER Member=TVS3
+Removed Member From Class: ClassName=EXT_LASER Member=TVS4
+Change Component Footprint: Designator=R2 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R3 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R4 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0603
+Change Component Footprint: Designator=R6 Old Footprint=RES-SMD-0101 New Footprint=RES-SMD-0603
+Change Component Comment : Designator=R2 Old Comment=22R New Comment=22R 1%
+Change Component Comment : Designator=R3 Old Comment=22R New Comment=22R 1%
+Change Component Comment : Designator=R4 Old Comment=22R New Comment=22R 1%
+Change Component Comment : Designator=R6 Old Comment=22R New Comment=22R 1%
+Change Class Name : Old Net Name=EXT_LASER New Net Name=SWITCHING
+Added Class: Name=COMMUNICATION

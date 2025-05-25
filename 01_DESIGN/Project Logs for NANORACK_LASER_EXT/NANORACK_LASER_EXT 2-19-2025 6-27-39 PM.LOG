@@ -1,0 +1,32 @@
+Added Component: Designator=LD1(LASER_SOCKET)
+Added Component: Designator=LD2(LASER_SOCKET)
+Added Component: Designator=LD3(LASER_SOCKET)
+Added Component: Designator=LD4(LASER_SOCKET)
+Added Component: Designator=LD5(LASER_SOCKET)
+Added Component: Designator=LD6(LASER_SOCKET)
+Added Component: Designator=LD7(LASER_SOCKET)
+Added Component: Designator=LD8(LASER_SOCKET)
+Added Pin To Net: NetName=NetD1_2 Pin=LD1-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD1-3
+Added Pin To Net: NetName=NetD2_2 Pin=LD2-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD2-3
+Added Pin To Net: NetName=NetD3_2 Pin=LD3-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD3-3
+Added Pin To Net: NetName=NetD4_2 Pin=LD4-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD4-3
+Added Pin To Net: NetName=NetD5_2 Pin=LD5-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD5-3
+Added Pin To Net: NetName=NetD6_2 Pin=LD6-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD6-3
+Added Pin To Net: NetName=NetD7_2 Pin=LD7-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD7-3
+Added Pin To Net: NetName=NetD8_2 Pin=LD8-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD8-3
+Added Member To Class: ClassName=SWITCHING Member=Component LD1 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD2 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD3 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD4 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD5 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD6 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD7 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD8 LaserDiode

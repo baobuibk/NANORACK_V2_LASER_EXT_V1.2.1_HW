@@ -1,0 +1,84 @@
+Change Component Designator: OldDesignator= NewDesignator=Hole1
+Change Component Designator: OldDesignator= NewDesignator=Hole2
+Added Pin To Net: NetName=12V_EXP Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=I_LD_EXT Pin=J1-3
+Added Pin To Net: NetName=+3.3 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=NetD1_2 Pin=LD1-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD1-3
+Added Pin To Net: NetName=NetD2_2 Pin=LD2-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD2-3
+Added Pin To Net: NetName=NetD3_2 Pin=LD3-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD3-3
+Added Pin To Net: NetName=NetD4_2 Pin=LD4-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD4-3
+Added Pin To Net: NetName=NetD5_2 Pin=LD5-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD5-3
+Added Pin To Net: NetName=NetD6_2 Pin=LD6-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD6-3
+Added Pin To Net: NetName=NetD7_2 Pin=LD7-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD7-3
+Added Pin To Net: NetName=NetD8_2 Pin=LD8-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD8-3
+Added Pin To Net: NetName=SW_EXT_CS Pin=R6-1
+Added Pin To Net: NetName=NetJ1_8 Pin=R6-2
+Added Pin To Net: NetName=NetJ1_7 Pin=TVS1-1
+Added Pin To Net: NetName=GND Pin=TVS1-2
+Added Pin To Net: NetName=NetJ1_8 Pin=TVS1-3
+Added Pin To Net: NetName=NetJ1_5 Pin=TVS2-1
+Added Pin To Net: NetName=GND Pin=TVS2-2
+Added Pin To Net: NetName=NetJ1_6 Pin=TVS2-3
+Added Pin To Net: NetName=+3.3 Pin=TVS3-1
+Added Pin To Net: NetName=GND Pin=TVS3-2
+Added Pin To Net: NetName=+3.3 Pin=TVS3-3
+Added Pin To Net: NetName=12V_EXP Pin=TVS4-1
+Added Pin To Net: NetName=GND Pin=TVS4-2
+Added Pin To Net: NetName=12V_EXP Pin=TVS4-3
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U1-2
+Added Pin To Net: NetName=12V_EXP Pin=U1-3
+Added Pin To Net: NetName=NetD2_2 Pin=U1-4
+Added Pin To Net: NetName=12V_EXP Pin=U1-5
+Added Pin To Net: NetName=NetD3_2 Pin=U1-6
+Added Pin To Net: NetName=12V_EXP Pin=U1-7
+Added Pin To Net: NetName=NetD4_2 Pin=U1-8
+Added Pin To Net: NetName=12V_EXP Pin=U1-9
+Added Pin To Net: NetName=12V_EXP Pin=U1-10
+Added Pin To Net: NetName=NetD5_2 Pin=U1-11
+Added Pin To Net: NetName=12V_EXP Pin=U1-12
+Added Pin To Net: NetName=NetD6_2 Pin=U1-13
+Added Pin To Net: NetName=12V_EXP Pin=U1-14
+Added Pin To Net: NetName=NetD7_2 Pin=U1-15
+Added Pin To Net: NetName=12V_EXP Pin=U1-16
+Added Pin To Net: NetName=NetD8_2 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=MISO_LD Pin=U1-19
+Added Pin To Net: NetName=NetR2_2 Pin=U1-20
+Added Pin To Net: NetName=SW_EXT_CS Pin=U1-21
+Added Pin To Net: NetName=SCK_LD Pin=U1-22
+Added Pin To Net: NetName=12V_EXP Pin=U1-23
+Added Pin To Net: NetName=MOSI_LD Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-HTAB
+Added Member To Class: ClassName=COMMUNICATION Member=Component Hole1 Hole
+Added Member To Class: ClassName=COMMUNICATION Member=Component Hole2 Hole
+Added Member To Class: ClassName=COMMUNICATION Member=Component J1 0532610871
+Added Member To Class: ClassName=SWITCHING Member=Component LD1 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD2 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD3 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD4 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD5 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD6 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD7 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD8 LaserDiode
+Added Member To Class: ClassName=COMMUNICATION Member=Component R6 22R 1%
+Added Member To Class: ClassName=COMMUNICATION Member=Component TVS1 S2303
+Added Member To Class: ClassName=COMMUNICATION Member=Component TVS2 S2303
+Added Member To Class: ClassName=COMMUNICATION Member=Component TVS3 S2303
+Added Member To Class: ClassName=COMMUNICATION Member=Component TVS4 S2312
+Added Member To Class: ClassName=SWITCHING Member=Component U1 ADG1414BCPZ

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+3.3 Pin=R1-1
+Removed Member From Class: ClassName=SWITCHING Member=R1
+Added Pin To Net: NetName=SW_EXT_CS Pin=TVS1-1

@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=PROTECT_EMI Pin=C2_1-1
+Change Component Designator: OldDesignator=C1_1 NewDesignator=C1
+Change Component Designator: OldDesignator=C2_1 NewDesignator=C2
+Change Component Designator: OldDesignator=LD1_1 NewDesignator=LD1
+Change Component Designator: OldDesignator=LD2_1 NewDesignator=LD2
+Change Component Designator: OldDesignator=LD3_1 NewDesignator=LD3
+Change Component Designator: OldDesignator=LD4_1 NewDesignator=LD4
+Change Component Designator: OldDesignator=LD5_1 NewDesignator=LD5
+Change Component Designator: OldDesignator=LD6_1 NewDesignator=LD6
+Change Component Designator: OldDesignator=LD7_1 NewDesignator=LD7
+Change Component Designator: OldDesignator=LD8_1 NewDesignator=LD8
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=12V_EXP Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Pin To Net: NetName=NetD1_2 Pin=LD1-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD1-3
+Added Pin To Net: NetName=NetD2_2 Pin=LD2-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD2-3
+Added Pin To Net: NetName=NetD3_2 Pin=LD3-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD3-3
+Added Pin To Net: NetName=NetD4_2 Pin=LD4-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD4-3
+Added Pin To Net: NetName=NetD5_2 Pin=LD5-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD5-3
+Added Pin To Net: NetName=NetD6_2 Pin=LD6-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD6-3
+Added Pin To Net: NetName=NetD7_2 Pin=LD7-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD7-3
+Added Pin To Net: NetName=NetD8_2 Pin=LD8-1
+Added Pin To Net: NetName=I_LD_EXT Pin=LD8-3
+Added Pin To Net: NetName=+3.3 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Member To Class: ClassName=SWITCHING Member=Component C1 0.22uF/25V
+Added Member To Class: ClassName=SWITCHING Member=Component C2 0.22uF/25V
+Added Member To Class: ClassName=COMMUNICATION Member=Component Hole1 Hole
+Added Member To Class: ClassName=COMMUNICATION Member=Component Hole2 Hole
+Added Member To Class: ClassName=SWITCHING Member=Component LD1 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD2 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD3 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD4 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD5 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD6 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD7 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component LD8 LaserDiode
+Added Member To Class: ClassName=SWITCHING Member=Component R2 4.7K 1%

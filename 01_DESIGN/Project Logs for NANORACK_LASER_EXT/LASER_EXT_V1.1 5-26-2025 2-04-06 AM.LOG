@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=I_LD_EXT Pin=D6-1
+Removed Pin From Net: NetName=I_LD_EXT Pin=D7-1
+Removed Pin From Net: NetName=I_LD_EXT Pin=D8-1
+Removed Pin From Net: NetName=I_LD_EXT Pin=LD6-3
+Removed Pin From Net: NetName=I_LD_EXT Pin=LD7-3
+Removed Pin From Net: NetName=I_LD_EXT Pin=LD8-3
+Removed Pin From Net: NetName=MISO_LD Pin=R6-1
+Removed Pin From Net: NetName=I_LD_EXT Pin=TP2-1
+Removed Pin From Net: NetName=MISO_LD Pin=TP6-1
+Removed Pin From Net: NetName=SW_EXT_CS Pin=TVS1-1
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=U1-2
+Removed Pin From Net: NetName=12V_EXP Pin=U1-3
+Removed Pin From Net: NetName=NetD2_2 Pin=U1-4
+Removed Pin From Net: NetName=12V_EXP Pin=U1-5
+Removed Pin From Net: NetName=NetD3_2 Pin=U1-6
+Removed Pin From Net: NetName=12V_EXP Pin=U1-7
+Removed Pin From Net: NetName=NetD4_2 Pin=U1-8
+Removed Pin From Net: NetName=12V_EXP Pin=U1-9
+Removed Pin From Net: NetName=NetD5_2 Pin=U1-11
+Removed Pin From Net: NetName=NetD6_2 Pin=U1-13
+Removed Pin From Net: NetName=12V_EXP Pin=U1-14
+Removed Pin From Net: NetName=NetD7_2 Pin=U1-15
+Removed Pin From Net: NetName=12V_EXP Pin=U1-16
+Removed Pin From Net: NetName=NetD8_2 Pin=U1-17
+Removed Pin From Net: NetName=GND Pin=U1-18
+Removed Pin From Net: NetName=NetR6_2 Pin=U1-19
+Removed Pin From Net: NetName=NetR2_2 Pin=U1-20
+Removed Pin From Net: NetName=NetR5_2 Pin=U1-21
+Removed Pin From Net: NetName=NetR4_2 Pin=U1-22
+Removed Pin From Net: NetName=12V_EXP Pin=U1-23
+Removed Pin From Net: NetName=NetR3_2 Pin=U1-24
+Removed Pin From Net: NetName=GND Pin=U1-HTAB
+Change Component Footprint: Designator=U1 Old Footprint=ADG1414BCPZ New Footprint=TSSOP24
+Change Component Footprint: Designator=LD1 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD2 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD3 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD4 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD5 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD6 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD7 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD8 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Comment : Designator=U1 Old Comment=ADG1414BCPZ New Comment=ADG1414BRUZ
+Added Pin To Net: NetName=MISO_LD Pin=TVS1-1
+Added Pin To Net: NetName=NetR4_2 Pin=U1-1
+Added Pin To Net: NetName=12V_EXP Pin=U1-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetD1_2 Pin=U1-5
+Added Pin To Net: NetName=12V_EXP Pin=U1-6
+Added Pin To Net: NetName=NetD2_2 Pin=U1-7
+Added Pin To Net: NetName=12V_EXP Pin=U1-8
+Added Pin To Net: NetName=NetD3_2 Pin=U1-9
+Added Pin To Net: NetName=NetD4_2 Pin=U1-11
+Added Pin To Net: NetName=12V_EXP Pin=U1-13
+Added Pin To Net: NetName=NetD5_2 Pin=U1-14
+Added Pin To Net: NetName=12V_EXP Pin=U1-15
+Added Pin To Net: NetName=NetD6_2 Pin=U1-16
+Added Pin To Net: NetName=12V_EXP Pin=U1-17
+Added Pin To Net: NetName=NetD7_2 Pin=U1-18
+Added Pin To Net: NetName=12V_EXP Pin=U1-19
+Added Pin To Net: NetName=NetD8_2 Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=NetR6_2 Pin=U1-22
+Added Pin To Net: NetName=NetR2_2 Pin=U1-23
+Added Pin To Net: NetName=NetR5_2 Pin=U1-24
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=D7-1
+Added Pin To Net: NetName=NetD6_1 Pin=D8-1
+Added Pin To Net: NetName=NetD6_1 Pin=LD6-3
+Added Pin To Net: NetName=NetD6_1 Pin=LD7-3
+Added Pin To Net: NetName=NetD6_1 Pin=LD8-3
+Added Pin To Net: NetName=NetD6_1 Pin=TP2-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=TP6-1
+Added Net: Name=NetR6_1
